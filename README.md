@@ -31,7 +31,7 @@ The satore data in localSotarage and retrieve it when refresh the page
 
 Appliction screenshot:
 
-![screenshot](images/screenshot.pjg)
+![screenshot](images/screenshot.jpg)
 
 Deployed application:
 
