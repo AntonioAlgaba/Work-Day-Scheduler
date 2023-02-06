@@ -33,7 +33,7 @@ Appliction screenshot:
 
 ![screenshot](images/screenshot.jpg)
 
-Deployed application:
+Deployed application: https://github.com/AntonioAlgaba/Work-Day-Scheduler/actions/runs/4063786090/jobs/6996437388
 
 ## Credits
 
